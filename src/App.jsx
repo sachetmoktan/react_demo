@@ -1,4 +1,5 @@
 import './App.css'
+import ReactHooks from './components/hooks'
 // import Form from './components/Form'
 // import { FormikForm } from './components/FormikForm'
 // import { useState } from 'react';
@@ -40,6 +41,7 @@ function App() {
       {/* <Form /> */}
 
       {/* <FormikForm /> */}
+      <ReactHooks />
     </>
   )
 }
